@@ -1,0 +1,6 @@
+aiofiles
+environs==9.5.0
+fastapi==0.75.2
+httpx==0.22.0
+Jinja2==3.1.2
+uvicorn==0.17.6
